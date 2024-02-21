@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\BusinessObjects.csproj": {}
+    "D:\\krs\\doan1\\KRS\\BusinessObjects\\BusinessObjects.csproj": {}
   },
   "projects": {
-    "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\krs\\doan1\\KRS\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\krs\\doan1\\KRS\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\BusinessObjects.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\obj\\",
+        "projectPath": "D:\\krs\\doan1\\KRS\\BusinessObjects\\BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\KieuTuanPC\\.nuget\\packages\\",
+        "outputPath": "D:\\krs\\doan1\\KRS\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KieuTuanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

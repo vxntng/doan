@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\doan\\codenew\\KRS\\KRS\\API\\API.csproj": {}
+    "D:\\krs\\doan1\\KRS\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\doan\\codenew\\KRS\\KRS\\API\\API.csproj": {
+    "D:\\krs\\doan1\\KRS\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\doan\\codenew\\KRS\\KRS\\API\\API.csproj",
+        "projectUniqueName": "D:\\krs\\doan1\\KRS\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\doan\\codenew\\KRS\\KRS\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\doan\\codenew\\KRS\\KRS\\API\\obj\\",
+        "projectPath": "D:\\krs\\doan1\\KRS\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\KieuTuanPC\\.nuget\\packages\\",
+        "outputPath": "D:\\krs\\doan1\\KRS\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KieuTuanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +22,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\krs\\doan1\\KRS\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\krs\\doan1\\KRS\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "D:\\doan\\codenew\\KRS\\KRS\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\doan\\codenew\\KRS\\KRS\\DataAccess\\DataAccess.csproj"
+              "D:\\krs\\doan1\\KRS\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\krs\\doan1\\KRS\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -62,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,21 +76,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\krs\\doan1\\KRS\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\krs\\doan1\\KRS\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\BusinessObjects.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\obj\\",
+        "projectPath": "D:\\krs\\doan1\\KRS\\BusinessObjects\\BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\KieuTuanPC\\.nuget\\packages\\",
+        "outputPath": "D:\\krs\\doan1\\KRS\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KieuTuanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -143,7 +145,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -152,21 +155,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\doan\\codenew\\KRS\\KRS\\DataAccess\\DataAccess.csproj": {
+    "D:\\krs\\doan1\\KRS\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\doan\\codenew\\KRS\\KRS\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\krs\\doan1\\KRS\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\doan\\codenew\\KRS\\KRS\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\doan\\codenew\\KRS\\KRS\\DataAccess\\obj\\",
+        "projectPath": "D:\\krs\\doan1\\KRS\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\KieuTuanPC\\.nuget\\packages\\",
+        "outputPath": "D:\\krs\\doan1\\KRS\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KieuTuanPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -180,8 +183,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\doan\\codenew\\KRS\\KRS\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\krs\\doan1\\KRS\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\krs\\doan1\\KRS\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -201,7 +204,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -210,7 +214,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

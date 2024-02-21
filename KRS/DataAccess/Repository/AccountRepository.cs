@@ -8,6 +8,8 @@ namespace DataAccess.Repository
 {
     public class AccountRepository : IAccountRepository
     {
+        public Task DeleteAccount(int accID) => AccountManagement.Instance.Delete(accID);
+
         public Account GetAccByID(int accID) => AccountManagement.Instance.GetAccountByID(accID);
 
 

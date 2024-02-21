@@ -40,3 +40,17 @@ D:\doan\codenew\KRS\KRS\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.
 D:\doan\codenew\KRS\KRS\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
 D:\doan\codenew\KRS\KRS\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
 D:\doan\codenew\KRS\KRS\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
+D:\krs\doan1\KRS\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+D:\krs\doan1\KRS\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+D:\krs\doan1\KRS\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+D:\krs\doan1\KRS\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+D:\krs\doan1\KRS\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\krs\doan1\KRS\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\krs\doan1\KRS\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\krs\doan1\KRS\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+D:\krs\doan1\KRS\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\krs\doan1\KRS\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+D:\krs\doan1\KRS\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+D:\krs\doan1\KRS\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+D:\krs\doan1\KRS\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+D:\krs\doan1\KRS\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll

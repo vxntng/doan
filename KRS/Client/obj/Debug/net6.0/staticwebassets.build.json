@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "Hash": "get6tu+IGcDIEkZAVLkssHBmmgxcBdqPTL1wUiYllls=",
+  "Hash": "N16vSrTi81ao6iJxFZtZFn5xFfVTsw5L/8yPxqxxHpw=",
   "Source": "Client",
   "BasePath": "_content/Client",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\API\\API.csproj",
+      "Identity": "D:\\krs\\doan1\\KRS\\API\\API.csproj",
       "Version": 2,
       "Source": "API",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
       "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
       "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
   "DiscoveryPatterns": [
     {
       "Name": "Client\\wwwroot",
       "Source": "Client",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Client.styles.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Client.styles.css",
       "SourceId": "Client",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Client",
       "RelativePath": "Client.styles.css",
       "AssetKind": "All",
@@ -43,13 +43,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\doan\\codenew\\KRS\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Client.styles.css"
+      "OriginalItemSpec": "D:\\krs\\doan1\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Client.styles.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Client.bundle.scp.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Client.bundle.scp.css",
       "SourceId": "Client",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Client",
       "RelativePath": "Client.bundle.scp.css",
       "AssetKind": "All",
@@ -60,13 +60,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\doan\\codenew\\KRS\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Client.bundle.scp.css"
+      "OriginalItemSpec": "D:\\krs\\doan1\\KRS\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Client.bundle.scp.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\assets.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\assets.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/assets.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\assets.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\color\\color-1.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\color\\color-1.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/color/color-1.css",
       "AssetKind": "All",
@@ -97,10 +97,10 @@
       "OriginalItemSpec": "wwwroot\\css\\color\\color-1.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\accordion.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\accordion.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/accordion.css",
       "AssetKind": "All",
@@ -114,10 +114,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\accordion.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\alert.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\alert.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/alert.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\alert.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\breadcrumb.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\breadcrumb.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/breadcrumb.css",
       "AssetKind": "All",
@@ -148,10 +148,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\breadcrumb.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\button.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\button.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/button.css",
       "AssetKind": "All",
@@ -165,10 +165,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\button.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\divider.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\divider.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/divider.css",
       "AssetKind": "All",
@@ -182,10 +182,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\divider.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\form.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\form.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/form.css",
       "AssetKind": "All",
@@ -199,10 +199,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\form.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\icon-box.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\icon-box.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/icon-box.css",
       "AssetKind": "All",
@@ -216,10 +216,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\icon-box.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\layout.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\layout.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/layout.css",
       "AssetKind": "All",
@@ -233,10 +233,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\layout.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\list.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\list.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/list.css",
       "AssetKind": "All",
@@ -250,10 +250,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\list.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\overlay.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\overlay.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/overlay.css",
       "AssetKind": "All",
@@ -267,10 +267,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\overlay.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\owl.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\owl.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/owl.css",
       "AssetKind": "All",
@@ -284,10 +284,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\owl.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\pagination.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\pagination.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/pagination.css",
       "AssetKind": "All",
@@ -301,10 +301,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\pagination.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\pricingtable.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\pricingtable.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/pricingtable.css",
       "AssetKind": "All",
@@ -318,10 +318,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\pricingtable.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\separator.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\separator.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/separator.css",
       "AssetKind": "All",
@@ -335,10 +335,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\separator.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\shortcodes.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\shortcodes.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/shortcodes.css",
       "AssetKind": "All",
@@ -352,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\shortcodes.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\shortcodes\\widget.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\shortcodes\\widget.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/shortcodes/widget.css",
       "AssetKind": "All",
@@ -369,10 +369,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcodes\\widget.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\site.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\site.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -386,10 +386,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\style.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\style.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -403,10 +403,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\css\\typography.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\css\\typography.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "css/typography.css",
       "AssetKind": "All",
@@ -420,10 +420,10 @@
       "OriginalItemSpec": "wwwroot\\css\\typography.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\favicon.ico",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\favicon.ico",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\1.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\1.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/1.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\about\\pic1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\about\\pic1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/about/pic1.jpg",
       "AssetKind": "All",
@@ -471,10 +471,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about\\pic1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\adv\\adv.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\adv\\adv.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/adv/adv.jpg",
       "AssetKind": "All",
@@ -488,10 +488,10 @@
       "OriginalItemSpec": "wwwroot\\images\\adv\\adv.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\background\\bg1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\background\\bg1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/background/bg1.jpg",
       "AssetKind": "All",
@@ -505,10 +505,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background\\bg1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\background\\bg2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\background\\bg2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/background/bg2.jpg",
       "AssetKind": "All",
@@ -522,10 +522,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background\\bg2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\banner\\banner1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\banner\\banner1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/banner/banner1.jpg",
       "AssetKind": "All",
@@ -539,10 +539,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\banner1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\banner\\banner2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\banner\\banner2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/banner/banner2.jpg",
       "AssetKind": "All",
@@ -556,10 +556,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\banner2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\banner\\banner3.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\banner\\banner3.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/banner/banner3.jpg",
       "AssetKind": "All",
@@ -573,10 +573,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\banner3.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\default\\thum1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\default\\thum1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/default/thum1.jpg",
       "AssetKind": "All",
@@ -590,10 +590,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\default\\thum1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\default\\thum2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\default\\thum2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/default/thum2.jpg",
       "AssetKind": "All",
@@ -607,10 +607,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\default\\thum2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\default\\thum3.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\default\\thum3.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/default/thum3.jpg",
       "AssetKind": "All",
@@ -624,10 +624,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\default\\thum3.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\default\\thum4.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\default\\thum4.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/default/thum4.jpg",
       "AssetKind": "All",
@@ -641,10 +641,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\default\\thum4.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\grid\\pic1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\grid\\pic1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/grid/pic1.jpg",
       "AssetKind": "All",
@@ -658,10 +658,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\grid\\pic1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\grid\\pic2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\grid\\pic2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/grid/pic2.jpg",
       "AssetKind": "All",
@@ -675,10 +675,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\grid\\pic2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\grid\\pic3.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\grid\\pic3.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/grid/pic3.jpg",
       "AssetKind": "All",
@@ -692,10 +692,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\grid\\pic3.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\latest-blog\\pic1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\latest-blog\\pic1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/latest-blog/pic1.jpg",
       "AssetKind": "All",
@@ -709,10 +709,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\latest-blog\\pic1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\latest-blog\\pic2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\latest-blog\\pic2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/latest-blog/pic2.jpg",
       "AssetKind": "All",
@@ -726,10 +726,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\latest-blog\\pic2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\latest-blog\\pic3.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\latest-blog\\pic3.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/latest-blog/pic3.jpg",
       "AssetKind": "All",
@@ -743,10 +743,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\latest-blog\\pic3.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\recent-blog\\pic1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\recent-blog\\pic1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/recent-blog/pic1.jpg",
       "AssetKind": "All",
@@ -760,10 +760,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\recent-blog\\pic1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\recent-blog\\pic2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\recent-blog\\pic2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/recent-blog/pic2.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\recent-blog\\pic2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\blog\\recent-blog\\pic3.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\blog\\recent-blog\\pic3.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/blog/recent-blog/pic3.jpg",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\recent-blog\\pic3.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\courses\\pic1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\courses\\pic1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/courses/pic1.jpg",
       "AssetKind": "All",
@@ -811,10 +811,10 @@
       "OriginalItemSpec": "wwwroot\\images\\courses\\pic1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\courses\\pic2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\courses\\pic2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/courses/pic2.jpg",
       "AssetKind": "All",
@@ -828,10 +828,10 @@
       "OriginalItemSpec": "wwwroot\\images\\courses\\pic2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\courses\\pic3.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\courses\\pic3.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/courses/pic3.jpg",
       "AssetKind": "All",
@@ -845,10 +845,10 @@
       "OriginalItemSpec": "wwwroot\\images\\courses\\pic3.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\courses\\pic4.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\courses\\pic4.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/courses/pic4.jpg",
       "AssetKind": "All",
@@ -862,10 +862,10 @@
       "OriginalItemSpec": "wwwroot\\images\\courses\\pic4.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\courses\\pic5.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\courses\\pic5.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/courses/pic5.jpg",
       "AssetKind": "All",
@@ -879,10 +879,10 @@
       "OriginalItemSpec": "wwwroot\\images\\courses\\pic5.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\courses\\pic6.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\courses\\pic6.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/courses/pic6.jpg",
       "AssetKind": "All",
@@ -896,10 +896,10 @@
       "OriginalItemSpec": "wwwroot\\images\\courses\\pic6.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\courses\\pic7.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\courses\\pic7.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/courses/pic7.jpg",
       "AssetKind": "All",
@@ -913,10 +913,10 @@
       "OriginalItemSpec": "wwwroot\\images\\courses\\pic7.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\courses\\pic8.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\courses\\pic8.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/courses/pic8.jpg",
       "AssetKind": "All",
@@ -930,10 +930,10 @@
       "OriginalItemSpec": "wwwroot\\images\\courses\\pic8.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\courses\\pic9.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\courses\\pic9.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/courses/pic9.jpg",
       "AssetKind": "All",
@@ -947,10 +947,10 @@
       "OriginalItemSpec": "wwwroot\\images\\courses\\pic9.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\event\\pic1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\event\\pic1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/event/pic1.jpg",
       "AssetKind": "All",
@@ -964,10 +964,10 @@
       "OriginalItemSpec": "wwwroot\\images\\event\\pic1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\event\\pic2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\event\\pic2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/event/pic2.jpg",
       "AssetKind": "All",
@@ -981,10 +981,10 @@
       "OriginalItemSpec": "wwwroot\\images\\event\\pic2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\event\\pic3.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\event\\pic3.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/event/pic3.jpg",
       "AssetKind": "All",
@@ -998,10 +998,10 @@
       "OriginalItemSpec": "wwwroot\\images\\event\\pic3.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\event\\pic4.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\event\\pic4.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/event/pic4.jpg",
       "AssetKind": "All",
@@ -1015,10 +1015,10 @@
       "OriginalItemSpec": "wwwroot\\images\\event\\pic4.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\favicon.ico",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\favicon.ico",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/favicon.ico",
       "AssetKind": "All",
@@ -1032,10 +1032,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.ico"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\favicon.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\favicon.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/favicon.png",
       "AssetKind": "All",
@@ -1049,10 +1049,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\flag\\united-kingdom.svg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\flag\\united-kingdom.svg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/flag/united-kingdom.svg",
       "AssetKind": "All",
@@ -1066,10 +1066,10 @@
       "OriginalItemSpec": "wwwroot\\images\\flag\\united-kingdom.svg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\flag\\united-states-of-america.svg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\flag\\united-states-of-america.svg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/flag/united-states-of-america.svg",
       "AssetKind": "All",
@@ -1083,10 +1083,10 @@
       "OriginalItemSpec": "wwwroot\\images\\flag\\united-states-of-america.svg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\gallery\\pic1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\gallery\\pic1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/gallery/pic1.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery\\pic1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\gallery\\pic2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\gallery\\pic2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/gallery/pic2.jpg",
       "AssetKind": "All",
@@ -1117,10 +1117,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery\\pic2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\gallery\\pic3.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\gallery\\pic3.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/gallery/pic3.jpg",
       "AssetKind": "All",
@@ -1134,10 +1134,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery\\pic3.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\gallery\\pic4.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\gallery\\pic4.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/gallery/pic4.jpg",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery\\pic4.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\gallery\\pic5.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\gallery\\pic5.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/gallery/pic5.jpg",
       "AssetKind": "All",
@@ -1168,10 +1168,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery\\pic5.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\gallery\\pic6.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\gallery\\pic6.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/gallery/pic6.jpg",
       "AssetKind": "All",
@@ -1185,10 +1185,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery\\pic6.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\gallery\\pic7.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\gallery\\pic7.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/gallery/pic7.jpg",
       "AssetKind": "All",
@@ -1202,10 +1202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery\\pic7.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\gallery\\pic8.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\gallery\\pic8.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/gallery/pic8.jpg",
       "AssetKind": "All",
@@ -1219,10 +1219,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery\\pic8.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\gallery\\pic9.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\gallery\\pic9.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/gallery/pic9.jpg",
       "AssetKind": "All",
@@ -1236,10 +1236,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery\\pic9.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\icon\\icon1.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\icon\\icon1.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/icon/icon1.png",
       "AssetKind": "All",
@@ -1253,10 +1253,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon\\icon1.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\icon\\icon2.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\icon\\icon2.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/icon/icon2.png",
       "AssetKind": "All",
@@ -1270,10 +1270,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon\\icon2.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\icon\\icon3.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\icon\\icon3.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/icon/icon3.png",
       "AssetKind": "All",
@@ -1287,10 +1287,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon\\icon3.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\icon\\icon4.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\icon\\icon4.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/icon/icon4.png",
       "AssetKind": "All",
@@ -1304,10 +1304,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon\\icon4.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\loading.gif",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\loading.gif",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/loading.gif",
       "AssetKind": "All",
@@ -1321,10 +1321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\loading.gif"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\logo.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\logo.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -1338,10 +1338,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\logo-white-.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\logo-white-.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/logo-white-.png",
       "AssetKind": "All",
@@ -1355,10 +1355,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-white-.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\logo-white-0.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\logo-white-0.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/logo-white-0.png",
       "AssetKind": "All",
@@ -1372,10 +1372,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-white-0.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\logo-white-2.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\logo-white-2.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/logo-white-2.png",
       "AssetKind": "All",
@@ -1389,10 +1389,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-white-2.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\our-services\\pic1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\our-services\\pic1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/our-services/pic1.jpg",
       "AssetKind": "All",
@@ -1406,10 +1406,10 @@
       "OriginalItemSpec": "wwwroot\\images\\our-services\\pic1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\our-services\\pic2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\our-services\\pic2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/our-services/pic2.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\images\\our-services\\pic2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\our-services\\pic3.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\our-services\\pic3.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/our-services/pic3.jpg",
       "AssetKind": "All",
@@ -1440,10 +1440,10 @@
       "OriginalItemSpec": "wwwroot\\images\\our-services\\pic3.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_1.jpg",
       "AssetKind": "All",
@@ -1457,10 +1457,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_10.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_10.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_10.jpg",
       "AssetKind": "All",
@@ -1474,10 +1474,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_10.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_11.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_11.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_11.jpg",
       "AssetKind": "All",
@@ -1491,10 +1491,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_11.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_12.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_12.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_12.jpg",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_12.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_2.jpg",
       "AssetKind": "All",
@@ -1525,10 +1525,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_3.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_3.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_3.jpg",
       "AssetKind": "All",
@@ -1542,10 +1542,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_3.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_4.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_4.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_4.jpg",
       "AssetKind": "All",
@@ -1559,10 +1559,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_4.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_5.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_5.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_5.jpg",
       "AssetKind": "All",
@@ -1576,10 +1576,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_5.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_6.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_6.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_6.jpg",
       "AssetKind": "All",
@@ -1593,10 +1593,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_6.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_7.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_7.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_7.jpg",
       "AssetKind": "All",
@@ -1610,10 +1610,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_7.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_8.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_8.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_8.jpg",
       "AssetKind": "All",
@@ -1627,10 +1627,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_8.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\portfolio\\image_9.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\portfolio\\image_9.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/portfolio/image_9.jpg",
       "AssetKind": "All",
@@ -1644,10 +1644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\image_9.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\profile\\pic1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\profile\\pic1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/profile/pic1.jpg",
       "AssetKind": "All",
@@ -1661,10 +1661,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile\\pic1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\slider\\slide1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\slider\\slide1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/slider/slide1.jpg",
       "AssetKind": "All",
@@ -1678,10 +1678,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\slide1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\slider\\slide2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\slider\\slide2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/slider/slide2.jpg",
       "AssetKind": "All",
@@ -1695,10 +1695,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\slide2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\testimonials\\pic1.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\testimonials\\pic1.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/testimonials/pic1.jpg",
       "AssetKind": "All",
@@ -1712,10 +1712,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonials\\pic1.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\testimonials\\pic2.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\testimonials\\pic2.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/testimonials/pic2.jpg",
       "AssetKind": "All",
@@ -1729,10 +1729,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonials\\pic2.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\images\\testimonials\\pic3.jpg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\images\\testimonials\\pic3.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "images/testimonials/pic3.jpg",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonials\\pic3.jpg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\js\\contact.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\js\\contact.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "js/contact.js",
       "AssetKind": "All",
@@ -1763,10 +1763,10 @@
       "OriginalItemSpec": "wwwroot\\js\\contact.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\js\\functions.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\js\\functions.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "js/functions.js",
       "AssetKind": "All",
@@ -1780,10 +1780,10 @@
       "OriginalItemSpec": "wwwroot\\js\\functions.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\js\\jquery.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\js\\jquery.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1797,10 +1797,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\js\\jquery.scroller.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\js\\jquery.scroller.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "js/jquery.scroller.js",
       "AssetKind": "All",
@@ -1814,10 +1814,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.scroller.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\js\\site.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\js\\site.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1831,10 +1831,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1848,10 +1848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1882,10 +1882,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1899,10 +1899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1916,10 +1916,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1933,10 +1933,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1950,10 +1950,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1967,10 +1967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1984,10 +1984,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2001,10 +2001,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2018,10 +2018,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2035,10 +2035,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2052,10 +2052,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2086,10 +2086,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2103,10 +2103,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2120,10 +2120,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2137,10 +2137,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2154,10 +2154,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2171,10 +2171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2188,10 +2188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2205,10 +2205,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2239,10 +2239,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2256,10 +2256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2273,10 +2273,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2290,10 +2290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2307,10 +2307,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2324,10 +2324,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2341,10 +2341,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2358,10 +2358,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2375,10 +2375,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2409,10 +2409,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2426,10 +2426,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2443,10 +2443,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2460,10 +2460,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2477,10 +2477,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2494,10 +2494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2511,10 +2511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2528,10 +2528,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2545,10 +2545,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2562,10 +2562,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2579,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2596,10 +2596,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2613,10 +2613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2630,10 +2630,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2647,10 +2647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2664,10 +2664,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2681,10 +2681,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2698,10 +2698,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2732,10 +2732,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2749,10 +2749,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2766,10 +2766,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2783,10 +2783,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2800,10 +2800,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2817,10 +2817,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2834,10 +2834,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\bootstrap\\js\\popper.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\bootstrap\\js\\popper.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/bootstrap/js/popper.min.js",
       "AssetKind": "All",
@@ -2851,10 +2851,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\js\\popper.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\bootstrap-select\\bootstrap-select.min.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\bootstrap-select\\bootstrap-select.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/bootstrap-select/bootstrap-select.min.css",
       "AssetKind": "All",
@@ -2868,10 +2868,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap-select\\bootstrap-select.min.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\bootstrap-select\\bootstrap-select.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\bootstrap-select\\bootstrap-select.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/bootstrap-select/bootstrap-select.min.js",
       "AssetKind": "All",
@@ -2885,10 +2885,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap-select\\bootstrap-select.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\bootstrap-touchspin\\jquery.bootstrap-touchspin.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\bootstrap-touchspin\\jquery.bootstrap-touchspin.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/bootstrap-touchspin/jquery.bootstrap-touchspin.js",
       "AssetKind": "All",
@@ -2902,10 +2902,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap-touchspin\\jquery.bootstrap-touchspin.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\counter\\counterup.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\counter\\counterup.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/counter/counterup.min.js",
       "AssetKind": "All",
@@ -2919,10 +2919,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\counter\\counterup.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\counter\\waypoints-min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\counter\\waypoints-min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/counter/waypoints-min.js",
       "AssetKind": "All",
@@ -2936,10 +2936,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\counter\\waypoints-min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\css\\font-awesome.min.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\css\\font-awesome.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/fontawesome/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -2953,10 +2953,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\fontawesome\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.eot",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/fontawesome/fonts/fontawesome-webfont3e6e.eot",
       "AssetKind": "All",
@@ -2970,10 +2970,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.svg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/fontawesome/fonts/fontawesome-webfont3e6e.svg",
       "AssetKind": "All",
@@ -2987,10 +2987,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.ttf",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/fontawesome/fonts/fontawesome-webfont3e6e.ttf",
       "AssetKind": "All",
@@ -3004,10 +3004,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/fontawesome/fonts/fontawesome-webfont3e6e.woff",
       "AssetKind": "All",
@@ -3021,10 +3021,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff2",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/fontawesome/fonts/fontawesome-webfont3e6e.woff2",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfontd41d.eot",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfontd41d.eot",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/fontawesome/fonts/fontawesome-webfontd41d.eot",
       "AssetKind": "All",
@@ -3055,10 +3055,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\imagesloaded\\imagesloaded.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\imagesloaded\\imagesloaded.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/imagesloaded/imagesloaded.js",
       "AssetKind": "All",
@@ -3072,10 +3072,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\imagesloaded\\imagesloaded.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\magnific-popup\\magnific-popup.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\magnific-popup\\magnific-popup.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/magnific-popup/magnific-popup.css",
       "AssetKind": "All",
@@ -3089,10 +3089,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\magnific-popup\\magnific-popup.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\magnific-popup\\magnific-popup.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\magnific-popup\\magnific-popup.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/magnific-popup/magnific-popup.js",
       "AssetKind": "All",
@@ -3106,10 +3106,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\magnific-popup\\magnific-popup.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\masonry\\filter.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\masonry\\filter.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/masonry/filter.js",
       "AssetKind": "All",
@@ -3123,10 +3123,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\masonry\\filter.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\masonry\\masonry.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\masonry\\masonry.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/masonry/masonry.js",
       "AssetKind": "All",
@@ -3140,10 +3140,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\masonry\\masonry.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\owl-carousel\\owl.carousel.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\owl-carousel\\owl.carousel.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/owl-carousel/owl.carousel.css",
       "AssetKind": "All",
@@ -3157,10 +3157,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\owl-carousel\\owl.carousel.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\owl-carousel\\owl.carousel.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\owl-carousel\\owl.carousel.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/owl-carousel/owl.carousel.js",
       "AssetKind": "All",
@@ -3174,10 +3174,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\owl-carousel\\owl.carousel.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\coloredbg.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\coloredbg.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/assets/coloredbg.png",
       "AssetKind": "All",
@@ -3191,10 +3191,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\assets\\coloredbg.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\gridtile.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\gridtile.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/assets/gridtile.png",
       "AssetKind": "All",
@@ -3208,10 +3208,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\assets\\gridtile.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\gridtile_3x3.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\gridtile_3x3.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/assets/gridtile_3x3.png",
       "AssetKind": "All",
@@ -3225,10 +3225,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\assets\\gridtile_3x3.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\gridtile_3x3_white.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\gridtile_3x3_white.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/assets/gridtile_3x3_white.png",
       "AssetKind": "All",
@@ -3242,10 +3242,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\assets\\gridtile_3x3_white.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\gridtile_white.png",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\gridtile_white.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/assets/gridtile_white.png",
       "AssetKind": "All",
@@ -3259,10 +3259,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\assets\\gridtile_white.png"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\loader.gif",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\assets\\loader.gif",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/assets/loader.gif",
       "AssetKind": "All",
@@ -3276,10 +3276,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\assets\\loader.gif"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\css\\closedhand.html",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\css\\closedhand.html",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/css/closedhand.html",
       "AssetKind": "All",
@@ -3293,10 +3293,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\css\\closedhand.html"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\css\\layers.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\css\\layers.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/css/layers.css",
       "AssetKind": "All",
@@ -3310,10 +3310,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\css\\layers.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\css\\navigation.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\css\\navigation.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/css/navigation.css",
       "AssetKind": "All",
@@ -3327,10 +3327,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\css\\navigation.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\css\\openhand.html",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\css\\openhand.html",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/css/openhand.html",
       "AssetKind": "All",
@@ -3344,10 +3344,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\css\\openhand.html"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\css\\settings.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\css\\settings.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/css/settings.css",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\css\\settings.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.eot",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/fonts/revicons/revicons90c6.eot",
       "AssetKind": "All",
@@ -3378,10 +3378,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.eot"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.svg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/fonts/revicons/revicons90c6.svg",
       "AssetKind": "All",
@@ -3395,10 +3395,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.svg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.ttf",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/fonts/revicons/revicons90c6.ttf",
       "AssetKind": "All",
@@ -3412,10 +3412,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.ttf"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.woff",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/fonts/revicons/revicons90c6.woff",
       "AssetKind": "All",
@@ -3429,10 +3429,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.woff"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/js/extensions/revolution.extension.actions.min.js",
       "AssetKind": "All",
@@ -3446,10 +3446,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/js/extensions/revolution.extension.carousel.min.js",
       "AssetKind": "All",
@@ -3463,10 +3463,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/js/extensions/revolution.extension.kenburn.min.js",
       "AssetKind": "All",
@@ -3480,10 +3480,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js",
       "AssetKind": "All",
@@ -3497,10 +3497,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/js/extensions/revolution.extension.migration.min.js",
       "AssetKind": "All",
@@ -3514,10 +3514,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/js/extensions/revolution.extension.navigation.min.js",
       "AssetKind": "All",
@@ -3531,10 +3531,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/js/extensions/revolution.extension.parallax.min.js",
       "AssetKind": "All",
@@ -3548,10 +3548,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/js/extensions/revolution.extension.slideanims.min.js",
       "AssetKind": "All",
@@ -3565,10 +3565,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.video.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/js/extensions/revolution.extension.video.min.js",
       "AssetKind": "All",
@@ -3582,10 +3582,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.video.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\jquery.themepunch.revolution.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/js/jquery.themepunch.revolution.min.js",
       "AssetKind": "All",
@@ -3599,10 +3599,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\js\\jquery.themepunch.revolution.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\revolution\\js\\jquery.themepunch.tools.min.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/revolution/js/jquery.themepunch.tools.min.js",
       "AssetKind": "All",
@@ -3616,10 +3616,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\revolution\\js\\jquery.themepunch.tools.min.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\scroll\\scrollbar.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\scroll\\scrollbar.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/scroll/scrollbar.css",
       "AssetKind": "All",
@@ -3633,10 +3633,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\scroll\\scrollbar.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\switcher\\switcher.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\switcher\\switcher.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/switcher/switcher.css",
       "AssetKind": "All",
@@ -3650,10 +3650,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\switcher\\switcher.css"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\switcher\\switcher.js",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\switcher\\switcher.js",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/switcher/switcher.js",
       "AssetKind": "All",
@@ -3667,10 +3667,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\switcher\\switcher.js"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\themify\\fonts\\themify9f24.eot",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\themify\\fonts\\themify9f24.eot",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/themify/fonts/themify9f24.eot",
       "AssetKind": "All",
@@ -3684,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\themify\\fonts\\themify9f24.eot"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\themify\\fonts\\themify9f24.svg",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\themify\\fonts\\themify9f24.svg",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/themify/fonts/themify9f24.svg",
       "AssetKind": "All",
@@ -3701,10 +3701,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\themify\\fonts\\themify9f24.svg"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\themify\\fonts\\themify9f24.ttf",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\themify\\fonts\\themify9f24.ttf",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/themify/fonts/themify9f24.ttf",
       "AssetKind": "All",
@@ -3718,10 +3718,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\themify\\fonts\\themify9f24.ttf"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\themify\\fonts\\themify9f24.woff",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\themify\\fonts\\themify9f24.woff",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/themify/fonts/themify9f24.woff",
       "AssetKind": "All",
@@ -3735,10 +3735,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\themify\\fonts\\themify9f24.woff"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\themify\\fonts\\themifyd41d.eot",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\themify\\fonts\\themifyd41d.eot",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/themify/fonts/themifyd41d.eot",
       "AssetKind": "All",
@@ -3752,10 +3752,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\themify\\fonts\\themifyd41d.eot"
     },
     {
-      "Identity": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\vendors\\themify\\themify-icons.css",
+      "Identity": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\vendors\\themify\\themify-icons.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\doan\\codenew\\KRS\\KRS\\Client\\wwwroot\\",
+      "ContentRoot": "D:\\krs\\doan1\\KRS\\Client\\wwwroot\\",
       "BasePath": "_content/Client",
       "RelativePath": "vendors/themify/themify-icons.css",
       "AssetKind": "All",
