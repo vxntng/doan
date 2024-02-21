@@ -128,6 +128,28 @@ namespace DataAccess.DAO
                 throw new Exception(ex.Message);
             }
         }
+
+        public async Task Delete(int accID)
+        {
+            try
+            {
+                Account accToDelete = GetAccountByID(accID);
+                if (accToDelete != null)
+                {
+                    var KRSDB = new KRSDbContext();
+                    KRSDB.Accounts.Remove(accToDelete);
+                    await KRSDB.SaveChangesAsync();
+                }
+                else
+                {
+                    throw new Exception("The account does not exist.");
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
     }
 }
 
