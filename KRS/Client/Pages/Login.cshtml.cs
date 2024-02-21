@@ -40,7 +40,7 @@ namespace Client.Pages
                 {
                     PropertyNameCaseInsensitive = true
                 });
-                return RedirectToPage("/Privacy");
+                return RedirectToAction("Index","Account");
             } else
             {
                 ModelState.AddModelError(string.Empty, "Wrong username or password");
